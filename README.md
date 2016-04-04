@@ -1,6 +1,8 @@
 # singleton-class-container
-<?php
+# How to use
+
 use Daulat\System\App;
+```
 /**
  * use app class
  */
@@ -32,4 +34,5 @@ echo $app->config->get('db.driver');
  * here get is the method of config class and config is now part of app object.
  * output:- mysql
  */
+```
  
