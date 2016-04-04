@@ -1,5 +1,5 @@
 {
-    "name": "Daulat/Container",
+    "name": "daulat/container",
     "type": "library",
     "description": "class Container for PHP 5.3",
     "keywords": ["singleton","container"],
