@@ -18,7 +18,7 @@ $app=new App();
 /**
  * Now you can make any class as part of app object like this
  * here we are creating only one instance of Config class using singleton
- * that singleton method takes to param app property name second callback
+ * that singleton method takes two param app property name second callback
  * that callback return object.
  */
 $app->container->singleton('config',function(){
