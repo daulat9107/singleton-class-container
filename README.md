@@ -1,8 +1,8 @@
 # singleton-class-container
 # How to use
-
-use Daulat\System\App;
 ```
+require 'vendor/autoload.php';
+use Daulat\System\App;
 /**
  * use app class
  */
